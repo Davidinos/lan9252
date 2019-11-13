@@ -1,2 +1,2 @@
 # lan9252
-A simple program base on SOEM
+A simple program based on SOEM
